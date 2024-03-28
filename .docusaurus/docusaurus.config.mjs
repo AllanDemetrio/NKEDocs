@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "NKE Arduino",
+  "title": "NKEArduino",
   "tagline": "Documentação do NKE",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
